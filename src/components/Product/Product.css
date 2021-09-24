@@ -2,4 +2,16 @@
     display: flex;
     border-bottom: 1px solid lightgray;
     margin-right: 5px;
+    padding: 10px 0px;
+}
+.regular-btn{
+    background-color: rgb(231, 153, 50);
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(20, 20, 20);
+    border-radius: 4px;
+    border: none;
+    padding: 8px 32px;
+    cursor: pointer;
 }

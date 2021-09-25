@@ -1,23 +1,23 @@
-.container{
+.header{
     text-align: center;
     margin-top: 20px;
 }
-.container img{
+.header img{
     width: 300px;
 }
-.container nav{
+.header nav{
     background-color: black;
     padding: 20px 0px;
     text-align: left;
     margin-top: 20px;
 }
-.container nav a{
+.header nav a{
     text-decoration: none;
     margin-right: 35px;
     color: white;
     padding: 15px 20px;
     border-radius: 3px;
 }
-.container nav a:hover{
+.header nav a:hover{
     background-color: rgb(105, 103, 104);
 }
